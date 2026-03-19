@@ -4,7 +4,7 @@ import 'dart:math';
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:printing/printing.dart';
-import 'package:invernadero/Pages/SideNav.dart';
+import 'package:invernadero/pages/SideNav.dart';
 
 
 const Color primaryGreen = Color(0xFF2E7D32);

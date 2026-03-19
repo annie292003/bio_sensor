@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:invernadero/Pages/SideNav.dart';
-import 'package:invernadero/Pages/InicioSesionPage.dart';
+import 'package:invernadero/pages/SideNav.dart';
+import 'package:invernadero/pages/InicioSesionPage.dart';
 import 'dart:developer';
 
 const Color primaryGreen = Color(0xFF2E7D32);

@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:app_links/app_links.dart';
-import 'package:invernadero/Pages/GestionInvernadero.dart';
-import 'package:invernadero/Pages/HomePage.dart';
-import 'package:invernadero/Pages/InicioSesionPage.dart';
-import 'package:invernadero/Pages/SeleccionRol.dart';
+import 'package:invernadero/pages/GestionInvernadero.dart';
+import 'package:invernadero/pages/HomePage.dart';
+import 'package:invernadero/pages/InicioSesionPage.dart';
+import 'package:invernadero/pages/SeleccionRol.dart';
 import 'dart:developer';
 
 final FirebaseFirestore _firestore = FirebaseFirestore.instance;

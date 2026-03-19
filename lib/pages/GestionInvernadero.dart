@@ -2,9 +2,9 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:invernadero/Pages/RegistroInvernadero.dart';
+import 'package:invernadero/pages/RegistroInvernadero.dart';
 import 'package:share_plus/share_plus.dart';
-import 'package:invernadero/Pages/SideNav.dart';
+import 'package:invernadero/pages/SideNav.dart';
 
 class Gestioninvernadero extends StatefulWidget {
   final String appId;

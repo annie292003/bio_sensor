@@ -4,13 +4,13 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:invernadero/Pages/CosechasPage.dart';
-import 'package:invernadero/Pages/EmpleadosPage.dart';
-import 'package:invernadero/Pages/HomePage.dart';
-import 'package:invernadero/Pages/InicioSesionPage.dart';
-import 'package:invernadero/Pages/ProfilePage.dart';
-import 'package:invernadero/Pages/GestionInvernadero.dart';
-import 'package:invernadero/Pages/ReportesHistoricosPage.dart';
+import 'package:invernadero/pages/CosechasPage.dart';
+import 'package:invernadero/pages/EmpleadosPage.dart';
+import 'package:invernadero/pages/HomePage.dart';
+import 'package:invernadero/pages/InicioSesionPage.dart';
+import 'package:invernadero/pages/ProfilePage.dart';
+import 'package:invernadero/pages/GestionInvernadero.dart';
+import 'package:invernadero/pages/ReportesHistoricosPage.dart';
 
 class AppTheme {
   static const Color primaryColor = Color(0xFF388E3C);

@@ -3,9 +3,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:invernadero/Pages/SeleccionRol.dart';
-import 'package:invernadero/Pages/GestionInvernadero.dart';
-import 'package:invernadero/Pages/HomePage.dart';
+import 'package:invernadero/pages/SeleccionRol.dart';
+import 'package:invernadero/pages/GestionInvernadero.dart';
+import 'package:invernadero/pages/HomePage.dart';
 
 class InicioSesion extends StatefulWidget {
   final String? invernaderoIdToJoin; // ID recibido desde el link de invitación
